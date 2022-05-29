@@ -67,8 +67,8 @@ module.exports = {
           to: DIST,
         },
         {
-          from: resolve(PUBLIC, 'img'),
-          to: resolve(DIST, 'img'),
+          from: resolve(PUBLIC, 'assets/img'),
+          to: resolve(DIST, 'assets/img'),
         },
       ],
       options: {

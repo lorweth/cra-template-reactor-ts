@@ -1,7 +1,7 @@
 {
   "name": "@virsavik/cra-template-reactor-ts",
   "repository": "git://github.com/virsavik/cra-template-reactor-ts.git",
-  "version": "0.1.0-alpha",
+  "version": "0.1.1-alpha",
   "description": "boilerplate code react config with webpack + redux toolkit + reactrouter v6 + charka ui",
   "keywords": [
     "react",
