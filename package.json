@@ -11,7 +11,7 @@
     "webpack"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@virsavik:registry": "https://npm.pkg.github.com"
   },
   "author": "virsavik",
   "license": "ISC",
